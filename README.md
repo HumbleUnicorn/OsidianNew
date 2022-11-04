@@ -3,7 +3,7 @@ A functioning Obsidian vault for first-timers
 
 ## How to Access this Vault
 1. Go to https://obsidian.md/ to download the Obsidian
-2. Download the ObsidianNew.zip and then Extract All 
+2. Download the Obsidian New folder 
 3. Start the Obsidian application; select **Open folder as vault**; select the unzipped **Obsidian New** folder 
 4. You will see a dialog box open **Do you trust the author of this vault?** Select **Trust author and enable plugins** to proceed
   4a. IF YOU WISH TO BROWSE THE VAULT FIRST: Select **Browse vault in restricted mode** and note that some aspects of the vault will not appear or function as intended. 
