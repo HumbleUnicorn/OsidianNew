@@ -18,4 +18,12 @@ tags: [readme]
 - Open the Zotero desktop application 
 - Create your free account, or sign in
 - Navigate to `Tools` > `Add-Ons` > :obs_gear: `Settings` and select `Install Add on From File` and then in the pop-up file explorer, navigate to the better bibtex `.xpi` file you just downloaded. 
-- Import the `Obsidian.bib` citation database from this vault and continue to add new refences as needed. 
+- Import the `Obsidian.bib` citation database from this vault into your Zotero library to test. Then continue to add and remove refences as you write!  
+	- File path: `Obsidian New\90 Vault Assets\Obsidian.bib`
+- To update the `.bib` library: 
+	- Select the folder or subfolder you want the Obsidian citation plugin to be able to read, 
+	- Open the `File` menu in top left menu bar
+	- Select `Export Library...` 
+	- In the pop-up Export menu, set ***Format*** to `Better BibLaTex` and check the `Keep updated` box if you want changes to be saved to this file automatically when you open the Zotero application
+	- Choose file destination. ***NOTE:*** If the file name or destination is different from the file path above, you will need to update the Citation plugin with the new path information in Obsidian
+

@@ -27,4 +27,4 @@ tags: [readme]
 	- Click on the icon to toggle CSS snippets on or off. 
 	- Select :rif_repeat: icon to reload CSS snippets.
 	- Select :luc_folder: icon to access snippets folder. 
-- This is particularly useful if you have multiple CSS snippets for tasks that apply to different notes. Refer to [Snippetor](Snippetor.md) for more information on custom tasks or folders. 
+- This is particularly useful if you have multiple CSS snippets for tasks that apply to different notes. Refer to [Snippetor](Snippetor.md) for more information on creating CSS snippets for *custom tasks* and *colored folders*. 
