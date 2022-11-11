@@ -1,10 +1,10 @@
-# OsidianNew
-A functioning Obsidian vault for first-timers
+# Osidian New
+A functioning Obsidian vault for first-timers, structured for literature reviews and other academic writing
 
 ## How to Access this Vault
-1. Go to https://obsidian.md/ to download the Obsidian
-2. Download the **Obsidian New** folder 
-3. Start the Obsidian application; select **Open folder as vault**; select the unzipped **Obsidian New** folder 
+1. Go to https://obsidian.md/ to download the Obsidian application
+2. Download the **ObsidianStarter.zip** file. Extract all to a local folder of your choice. 
+3. Start the Obsidian application; select **Open folder as vault**; select **Obsidian New** from the extracted zip file
 4. You will see a dialog box open **Do you trust the author of this vault?** Select **Trust author and enable plugins** to proceed
   4a. IF YOU WISH TO BROWSE THE VAULT FIRST: Select **Browse vault in restricted mode** and note that some aspects of the vault will not appear or function as intended. 
   4b. After you browse the vault go to **Settings>Community plugins** and select **Turn on community plugins** to activate remaining vault setting
