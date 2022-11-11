@@ -15,7 +15,7 @@ A functioning Obsidian vault for first-timers, structured for literature reviews
   3. Access the note **02.2 Intro to Atomic Notetaking** to review basic prinicples of notetaking and knowledge management that the system was designed to support
   4. Access the note **02.3 Linking Your Thinking (LYT)** to see an overview and links to tutorials developed by Nick Milo and members of the Obsidian Community on how to use Obsidian and a zettelkasten notetaking philosophy to support your learning, writing and personal growth
 
-## Versions
+## Versions As of Latest Release
 Obsidian v1.0.3
 
 ### Community Plugins
